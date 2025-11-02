@@ -1,0 +1,2 @@
+# afinador-guitarra
+afinador
